@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tolpiekin
-- 👀 I’m interested in becoming developer
-- 🌱 I’m currently learning Python_3
-- 💞️ I’m looking to collaborate on don't know yet
+- 👀 I’m interested in becoming java developer
+- 🌱 I’m currently learning Java at foxminded.ua
 - 📫 How to reach me ...
 
 <!---
